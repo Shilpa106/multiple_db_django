@@ -87,7 +87,7 @@ DATABASES = {
         'USER': 'school_user',
         'PASSWORD': 'Sc_pass1',
         'PORT': 3305
-    }
+    },
 }
 
 
